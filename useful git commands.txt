@@ -24,3 +24,6 @@ git remote add origin https://github.com/myadaiah/git-course.git
 git branch -M main
 git push -u origin main
 
+git remote -v
+
+git checkout -b feature  (for createing new branch)
