@@ -30,5 +30,6 @@ git checkout -b feature  (for createing new branch)
 
 git switch branch name
 git switch main
-git merge feature
 git pull origin main
+git merge feature
+git push origin main
